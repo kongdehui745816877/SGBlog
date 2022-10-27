@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7a13d35-c048-43e5-8e00-531a03429972" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-config/5.5.0/spring-security-config-5.5.0-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2FhpRn22QVAVZ7HNzxBKc0Egfcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_221" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/kong-framework/src/main/java/com/kong" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.41261497" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kong.domain.dto" />
+      <recent name="com.kong.domain.vo" />
+      <recent name="com.kong.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_SSM\SGBlog" />
+      <recent name="D:\JAVA_SSM\SGBlog\kong-framework\src\main\java\com\kong\service\impl" />
+      <recent name="D:\JAVA_SSM\SGBlog\kong-framework\src\main\java\com\kong\service" />
+      <recent name="D:\JAVA_SSM\SGBlog\kong-framework\src\main\java\com\kong\domain\vo" />
+      <recent name="D:\JAVA_SSM\SGBlog\kong-admin\src\main\java\com\kong\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kong.service.impl" />
+      <recent name="com.kong.service" />
+      <recent name="com.kong.controller" />
+      <recent name="com.kong.filter" />
+      <recent name="com.kong.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KongAdminApplication">
+    <configuration name="Get.getZ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kong-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kong.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kong.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.Service.Get" />
+      <option name="METHOD_NAME" value="getZ" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSSTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kong-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kong" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.OSSTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kong-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kong.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kong.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.Service.test" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kong-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kong.KongAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kong-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kong.KongBlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringsecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecurtityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurtity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringsecurtityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.KongAdminApplication" />
+        <item itemvalue="JUnit.OSSTest.get" />
+        <item itemvalue="JUnit.Get.getZ" />
+        <item itemvalue="JUnit.test.Test" />
+        <item itemvalue="Spring Boot.KongBlogApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e7a13d35-c048-43e5-8e00-531a03429972" name="变更" comment="" />
+      <created>1664954166808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664954166808</updated>
+      <workItem from="1664954169236" duration="2308000" />
+      <workItem from="1664956504911" duration="3373000" />
+      <workItem from="1664976889314" duration="3391000" />
+      <workItem from="1664993444835" duration="2502000" />
+      <workItem from="1665039919555" duration="3796000" />
+      <workItem from="1665146989564" duration="6252000" />
+      <workItem from="1665210436296" duration="5952000" />
+      <workItem from="1665233300958" duration="635000" />
+      <workItem from="1665233965737" duration="3685000" />
+      <workItem from="1665249317000" duration="6619000" />
+      <workItem from="1665385160405" duration="6699000" />
+      <workItem from="1665473320095" duration="5876000" />
+      <workItem from="1665496579499" duration="3290000" />
+      <workItem from="1665534064237" duration="6422000" />
+      <workItem from="1665554931561" duration="888000" />
+      <workItem from="1665555981448" duration="3955000" />
+      <workItem from="1665560031935" duration="5250000" />
+      <workItem from="1665583659706" duration="3052000" />
+      <workItem from="1665643662026" duration="7573000" />
+      <workItem from="1665669879254" duration="2946000" />
+      <workItem from="1665729991364" duration="6808000" />
+      <workItem from="1665764739213" duration="4137000" />
+      <workItem from="1665818879450" duration="5258000" />
+      <workItem from="1665843697063" duration="7474000" />
+      <workItem from="1665904407447" duration="4087000" />
+      <workItem from="1665928790664" duration="4433000" />
+      <workItem from="1665988469407" duration="459000" />
+      <workItem from="1665989155228" duration="6559000" />
+      <workItem from="1666014871921" duration="5584000" />
+      <workItem from="1666075820346" duration="4394000" />
+      <workItem from="1666080336310" duration="1248000" />
+      <workItem from="1666101745332" duration="99000" />
+      <workItem from="1666137855109" duration="9857000" />
+      <workItem from="1666158913318" duration="9755000" />
+      <workItem from="1666336484757" duration="2693000" />
+      <workItem from="1666419516457" duration="5892000" />
+      <workItem from="1666447827391" duration="2622000" />
+      <workItem from="1666505369079" duration="5357000" />
+      <workItem from="1666531276565" duration="6820000" />
+      <workItem from="1666592315125" duration="8936000" />
+      <workItem from="1666853783412" duration="1155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-core/5.5.0/spring-security-core-5.5.0.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../springsecurity/src/main/java/com/example/expression/SGExpressionRoot.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-config/5.5.0/spring-security-config-5.5.0.jar!/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer.class</url>
+          <line>163</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-config/5.5.0/spring-security-config-5.5.0.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class</url>
+          <line>135</line>
+          <properties class="org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter" method="authenticationManagerBean" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/kong-blog/src/test/java/com/kong/OSSTest.java</url>
+          <line>37</line>
+          <properties class="com.kong.OSSTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.kong.domain.entity.Menu" memberName="children" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="menuTree.get(0).children" />
+        <watch expression="role" />
+        <watch expression="((Object[])param_3)[0]" custom="java.lang.Object[]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
